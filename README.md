@@ -77,7 +77,6 @@ This project aims to detect fake news using machine learning techniques. It util
 
 -   The model's accuracy is evaluated on both the training and testing datasets.
 -   The accuracy score on the test data is approximately 97.91%.
--   The final accuracy, when compared against `submit.csv`, is 64.37%.
 
 ## Prediction
 
